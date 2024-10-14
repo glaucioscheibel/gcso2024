@@ -1,2 +1,4 @@
 bla bla bla
 linhas de textos e tals
+inclua mais 2 linhas de texto
+em arquivo 1 e 3
