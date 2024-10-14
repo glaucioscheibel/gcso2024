@@ -1,0 +1,328 @@
+[33mcommit e970b48343f7711e84e2abc2449a0e524f384e42[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/sara2[m[33m, [m[1;31morigin/sara1[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7a32507 ec53aa6
+Author: Sara1502 <moreirasaragds@gmail.com>
+Date:   Mon Oct 14 10:30:37 2024 -0300
+
+    Merge sara1 into sara2
+
+[33mcommit ec53aa65f9d1de4a0fa161fe6edbca5e063d32c3[m
+Author: Sara1502 <moreirasaragds@gmail.com>
+Date:   Mon Oct 14 10:19:06 2024 -0300
+
+    Add arquivo4
+
+[33mcommit 7a32507c14e6f41542056ee2570bc71f8ba3b48d[m
+Author: Sara1502 <moreirasaragds@gmail.com>
+Date:   Mon Oct 14 10:12:30 2024 -0300
+
+    Add linhas
+
+[33mcommit a18abfde0642ff4d710b3296f2afb2e5a5ffad09[m
+Author: Sara1502 <moreirasaragds@gmail.com>
+Date:   Mon Oct 14 10:04:16 2024 -0300
+
+    Add linha e arquivo 22
+
+[33mcommit fd197a0b4532bb3deac9e76000d9d219cb28b4d5[m
+Author: Sara1502 <moreirasaragds@gmail.com>
+Date:   Mon Oct 14 09:40:07 2024 -0300
+
+    add arquivos
+
+[33mcommit cf6da2c106cfec0116dd77343d4a3c0b10c6e960[m
+Merge: 0cddb2e 3936e18
+Author: Glaucio Scheibel <gscheibel@gmail.com>
+Date:   Fri Oct 11 20:15:53 2024 -0300
+
+    Merge pull request #2 from ClaudioIonck/claudio2
+    
+    Claudio2
+
+[33mcommit 0cddb2e6344931b81f0865c16ea12032240f46d3[m
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 20:10:45 2024 -0300
+
+    Fiz tudo mereço 10
+
+[33mcommit 8113408ce94e9422b5f240c23ea33df3657e7175[m
+Merge: ee54049 683cdbc
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 20:09:20 2024 -0300
+
+    Merge branch 'rafaelLima1'
+
+[33mcommit 683cdbc961713308e8effec95a47161a78f02712[m[33m ([m[1;31morigin/rafaelLima1[m[33m)[m
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 20:07:35 2024 -0300
+
+    Merge da branch rafaelLima2
+
+[33mcommit cf408649e5ddd2e50fe32bbe931f56fc339d1af3[m[33m ([m[1;31morigin/rafaelLima2[m[33m)[m
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 20:05:43 2024 -0300
+
+    Merge da branch rafaelLima1
+
+[33mcommit c368c49b0699d4ef13f62b82db72b29c8796f686[m
+Merge: 58ae6ef aa3cb68
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 20:04:10 2024 -0300
+
+    Merge branch 'rafaelLima1' into rafaelLima2
+
+[33mcommit aa3cb68e8e0ac6374ca1939544e3f052415fc1f9[m
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 20:02:44 2024 -0300
+
+    Adicionando Arquivo4,txt
+
+[33mcommit 58ae6efcbf458cbdc4efa830beb6c03fc6077d32[m
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 19:59:58 2024 -0300
+
+    Adicionando mais linhas nos arquivos
+
+[33mcommit ee54049b625b408f4ff8a875891a4c6e627da3e4[m
+Merge: f987b31 90ed1bb
+Author: MATHEUS AUGUSTO ZEFERINO <matheus.zeferino@univille.br>
+Date:   Fri Oct 11 19:57:52 2024 -0300
+
+    Merge branch 'zeferino1'
+
+[33mcommit fb709686e2eebdc4d6a88722f3b55a3d3c8423dd[m
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 19:56:41 2024 -0300
+
+    Atualizando arquivos e renomeando Arquivo2
+
+[33mcommit 90ed1bb2309e90aee9204132464f46c8a8e6000a[m[33m ([m[1;31morigin/zeferino1[m[33m)[m
+Author: MATHEUS AUGUSTO ZEFERINO <matheus.zeferino@univille.br>
+Date:   Fri Oct 11 19:55:51 2024 -0300
+
+    Merge branch 2
+
+[33mcommit 5c236129593a6297f6e7f173fba713e78acb7314[m[33m ([m[1;31morigin/zeferino2[m[33m)[m
+Merge: c843137 29ad2a9
+Author: MATHEUS AUGUSTO ZEFERINO <matheus.zeferino@univille.br>
+Date:   Fri Oct 11 19:53:42 2024 -0300
+
+    Merge branch 'zeferino1' into zeferino2
+
+[33mcommit 29ad2a91c51f589097a79090148d0a171bd9eac9[m
+Author: MATHEUS AUGUSTO ZEFERINO <matheus.zeferino@univille.br>
+Date:   Fri Oct 11 19:52:58 2024 -0300
+
+    Criando Arquivo4.txt
+
+[33mcommit f987b3166cc67bd37bc1d84ead50e129ff2c5418[m
+Merge: ed41958 5d5e040
+Author: mmagno23 <103081924+mmagno23@users.noreply.github.com>
+Date:   Fri Oct 11 19:52:42 2024 -0300
+
+    Merge pull request #1 from glaucioscheibel/Matheus1
+    
+    Adicionando arquivos iniciais
+
+[33mcommit 3936e1815b3593fcaad078cb59b7ec617ed75815[m
+Author: Claudio Luiz Defrein Ionck <78597253+ClaudioIonck@users.noreply.github.com>
+Date:   Fri Oct 11 19:51:57 2024 -0300
+
+    Create Arquivo4.txt
+
+[33mcommit c843137d168df9945af3c1ceb0754f1ff7b9f457[m
+Author: MATHEUS AUGUSTO ZEFERINO <matheus.zeferino@univille.br>
+Date:   Fri Oct 11 19:49:48 2024 -0300
+
+    Adicionando mais duas linhas nos arquivos 1 e 3
+
+[33mcommit 48beea6651e3fda41610c00a64fb70b30a9500d1[m
+Author: Claudio Luiz Defrein Ionck <78597253+ClaudioIonck@users.noreply.github.com>
+Date:   Fri Oct 11 19:49:37 2024 -0300
+
+    Update Arquivo22.txt
+
+[33mcommit ed419588d247318d266f6e9d6958e823a68734f5[m
+Merge: 6bd9c70 94842d2
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:47:03 2024 -0300
+
+    Merge branch 'main' of https://github.com/glaucioscheibel/gcso2024
+
+[33mcommit 5d5e040b2008b48e06afca53f115c6349bd786b7[m[33m ([m[1;31morigin/Matheus1[m[33m)[m
+Author: MATHEUS MAGNO CARVALHO CORREA <matheusmagno@univille.br>
+Date:   Fri Oct 11 19:47:03 2024 -0300
+
+    Adicionando arquivos iniciais
+
+[33mcommit 94842d2d5bad36a52e31cc87974ce8ce3039670a[m
+Merge: 1a5fd43 3ba156c
+Author: Hammes <gabriel.paulo@univille.br>
+Date:   Fri Oct 11 19:46:46 2024 -0300
+
+    Merge branch 'main' of https://github.com/glaucioscheibel/gcso2024
+
+[33mcommit 6bd9c70e412be1999667802f5fa4ff6f19b4c1c5[m
+Merge: 3ba156c b8846f0
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:46:34 2024 -0300
+
+    Merge branch 'bruno_scholze1'
+
+[33mcommit 8c4165ff44e2cb50c6347ec4c38f1699aa64d7fc[m
+Author: MATHEUS AUGUSTO ZEFERINO <matheus.zeferino@univille.br>
+Date:   Fri Oct 11 19:46:07 2024 -0300
+
+    Adicionando linhas e mudando nome do arquivo
+
+[33mcommit b6daf639964e4024721cfd28e45559974571da1e[m
+Author: Claudio Luiz Defrein Ionck <78597253+ClaudioIonck@users.noreply.github.com>
+Date:   Fri Oct 11 19:46:03 2024 -0300
+
+    add linhas
+
+[33mcommit dde8b6e62ebf5dfbb682b4748c4f3c4ec8adea9c[m
+Author: RAFAEL LIMA DA SILVA <rrafael@univille.br>
+Date:   Fri Oct 11 19:46:00 2024 -0300
+
+    Adicionando arquivos iniciais
+
+[33mcommit b8846f07d8cb8b89ebbc0a02288348af27ae2650[m[33m ([m[1;31morigin/bruno_scholze2[m[33m, [m[1;31morigin/bruno_scholze1[m[33m)[m
+Merge: 5785e3b efaf251
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:44:37 2024 -0300
+
+    Merge branch 'bruno_scholze1' into bruno_scholze2
+
+[33mcommit 5f66ba2465b1ea3c470c1b83f2198c851beb6609[m
+Author: Claudio Luiz Defrein Ionck <78597253+ClaudioIonck@users.noreply.github.com>
+Date:   Fri Oct 11 19:44:07 2024 -0300
+
+    Update Arquivo1.txt
+
+[33mcommit 3ba156c7b64aed204a7844de27c2983f09b1bb48[m
+Merge: 7a63df0 921d3fa
+Author: MARCOS ENRICO DAMAZZINI GODINHO <marcos.godinho@univille.br>
+Date:   Fri Oct 11 19:43:59 2024 -0300
+
+    Merge branch 'MarcosGodinho1'
+
+[33mcommit 1a5fd431b4d84fea0de99d92f3d151caad718a54[m
+Merge: 7a63df0 6478b08
+Author: Hammes <gabriel.paulo@univille.br>
+Date:   Fri Oct 11 19:43:20 2024 -0300
+
+    Merge branch 'hames1'
+
+[33mcommit efaf25109317058c1197e685dcff486d960f43d4[m
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:42:56 2024 -0300
+
+    branch 1 commite 2
+
+[33mcommit 5785e3b9c757a106346ad8b205ee46353ca15a78[m
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:41:55 2024 -0300
+
+    branch 2
+
+[33mcommit fce264fe096eb4064dedb37fd4e827455d3bf6d3[m
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:41:26 2024 -0300
+
+    branch 2
+
+[33mcommit 6478b08fa6a159010d3268539dda63f26686dafb[m[33m ([m[1;31morigin/Hames2[m[33m)[m
+Author: GABRIEL PAULO HAMES DE SOUZA <gabriel.paulo@univille.br>
+Date:   Fri Oct 11 19:39:29 2024 -0300
+
+    Ultimo Merge
+
+[33mcommit 5c92e27fcfa9f8f0d2b3d65998548330cce85005[m
+Author: MATHEUS AUGUSTO ZEFERINO <matheus.zeferino@univille.br>
+Date:   Fri Oct 11 19:39:16 2024 -0300
+
+    Criando arquivos 1 2 e 3
+
+[33mcommit 57552917c4f191350be8f48875eb18756ed465c6[m
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:37:17 2024 -0300
+
+    bruno commite
+
+[33mcommit 144c6407797b95ec68ccc50fdf64ecca3e994bac[m
+Author: Claudio Luiz Defrein Ionck <78597253+ClaudioIonck@users.noreply.github.com>
+Date:   Fri Oct 11 19:37:13 2024 -0300
+
+    add
+
+[33mcommit 921d3fa300fe16ef14f5e2254209cc7b49144188[m[33m ([m[1;31morigin/MarcosGodinho2[m[33m, [m[1;31morigin/MarcosGodinho1[m[33m)[m
+Author: MARCOS ENRICO DAMAZZINI GODINHO <marcos.godinho@univille.br>
+Date:   Fri Oct 11 19:34:45 2024 -0300
+
+    Primeiro commit
+
+[33mcommit 8b6f544d038cd943dbb611bad27f414bb64e1af4[m
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:34:40 2024 -0300
+
+    Commite bruno na branch 2
+
+[33mcommit 6fc08bea6827a0d87becf8de22bb21fa6bedd4d2[m
+Author: GABRIEL PAULO HAMES DE SOUZA <gabriel.paulo@univille.br>
+Date:   Fri Oct 11 19:34:28 2024 -0300
+
+    Terceiro Commit
+
+[33mcommit f0c63f030a20283742d7f882696f08b60998a7e6[m
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:33:14 2024 -0300
+
+    Commite 2 bruno
+
+[33mcommit b9ab97e8065e648e97f9bd3a6f8f09cd7b56d42d[m
+Author: bruno scholze <brunoscholze2003@gmail.com.br>
+Date:   Fri Oct 11 19:28:40 2024 -0300
+
+    Commite Bruno
+
+[33mcommit 7a63df025f6a84c25efe08c8799573ecc33d322a[m[33m ([m[1;31morigin/henry1[m[33m)[m
+Author: Henry <henrylopespereira@gmail.com>
+Date:   Fri Oct 11 19:28:30 2024 -0300
+
+    commit 4
+
+[33mcommit 019ce2faa0493f7c217059fd52cd84652ff3a5ee[m[33m ([m[1;31morigin/Hames1[m[33m)[m
+Author: GABRIEL PAULO HAMES DE SOUZA <gabriel.paulo@univille.br>
+Date:   Fri Oct 11 19:28:29 2024 -0300
+
+    Segundo Commit
+
+[33mcommit a93800837b99aeec9d04dbdb07cdb7be2318e5ab[m
+Author: GABRIEL PAULO HAMES DE SOUZA <gabriel.paulo@univille.br>
+Date:   Fri Oct 11 19:25:28 2024 -0300
+
+    Primeiro commmit
+
+[33mcommit b2390914b409b2930c158df6a2753591fa9e90c8[m
+Author: Henry <henrylopespereira@gmail.com>
+Date:   Fri Oct 11 19:21:58 2024 -0300
+
+    2
+
+[33mcommit 0e69d4b2a9c234e65915080960e7b2d6761dd8ad[m
+Author: Henry <henrylopespereira@gmail.com>
+Date:   Fri Oct 11 19:10:44 2024 -0300
+
+    1
+
+[33mcommit 3246522bfeeb951995359c8bd8048859d825477c[m
+Author: Glaucio Scheibel <glaucio.scheibel@outsera.com>
+Date:   Fri Oct 11 13:50:01 2024 -0300
+
+    instrucoes
+
+[33mcommit fc17e72a9e2be5e5c5fe09d1ebf8b30e547fe656[m
+Author: Glaucio Scheibel <gscheibel@gmail.com>
+Date:   Fri Oct 11 13:48:11 2024 -0300
+
+    Initial commit
