@@ -1,3 +1,2 @@
-apenas anotando o progresso
+anotando o progresso
 
-conclui a etapa 13 Envie (Push) as inclusões para o repositório remoto.
